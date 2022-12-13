@@ -16,12 +16,7 @@ h3{
     font-weight: 900;
 
 }
-#skills{
-
-    color: orange;
-    font-family: Arial, Helvetica, sans-serif;
-}
- #projects ul{
+#skills ul, #projects ul{
 
     color: orange;
     font-family: Arial, Helvetica, sans-serif;

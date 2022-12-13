@@ -1,2 +1,25 @@
 
-/* Your CSS Code here. */
+*{
+    border: none;
+    background-color: black;
+}
+img{
+    height: 100px;
+    width: 5%;
+    border-radius: 50px;
+    border: 10px solid orange;
+    padding: 10px;
+}
+header{
+    font-style: italic;
+    color: black;
+    font-weight: 900;
+
+}
+#skills ol, #projects ul{
+
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
